@@ -1,4 +1,4 @@
-# ⚡ MetaForge — Meta Tag Generator & Auditor
+# ⚡ MetaForge: Meta Tag Generator & Auditor
 
 A free, open-source tool for generating and auditing HTML meta tags for SEO and social media sharing. Built with Next.js (App Router) and deployed on Vercel.
 
