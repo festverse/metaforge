@@ -109,6 +109,7 @@ export default function AuditPanel({ onFixIt }: AuditPanelProps) {
           type="url"
           className="form-input"
           placeholder="https://example.com"
+          aria-label="URL to audit"
           value={url}
           onChange={(e) => setUrl(e.target.value)}
           onKeyDown={handleKeyDown}

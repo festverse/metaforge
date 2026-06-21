@@ -1,7 +1,7 @@
 /* ===== MetaForge Design System ===== */
 
 /* --- Google Font Import --- */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+/* Font is now loaded via next/font in layout.tsx */
 
 /* --- CSS Custom Properties --- */
 :root {
@@ -22,7 +22,7 @@
   /* Text */
   --text-primary: #f1f5f9;
   --text-secondary: #94a3b8;
-  --text-muted: #64748b;
+  --text-muted: #8493a8;
   --text-accent: #a78bfa;
 
   /* Borders */
